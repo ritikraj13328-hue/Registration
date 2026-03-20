@@ -1,0 +1,44 @@
+.Ritik{
+    background-color: rgb(107, 107, 98);
+border-radius: 0cap;
+p:power{colour:green}
+a:hover{colour:pink}
+
+li:first-child{colour:rgb(0, 76, 255)}
+d::before{content:"hello"}
+
+::selection{colour:rgb(0, 255, 132)}
+
+}
+li::before {
+    background-color: #10ea26;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+p::before {
+    content: "hello world";
+    background-color: #ea1096;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+::selection {
+    content: "hello world";
+    background-color: #eac210;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+h6::before{
+    background-color: #0548ce;
+    color: rgb(147, 30, 30);
+    font-size: 30px;
+    text-align: center;
+
+    <!DOCTYPE html>
+    <html lang=
+}
